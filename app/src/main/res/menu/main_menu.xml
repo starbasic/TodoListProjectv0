@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/save_to_pref"
+        android:orderInCategory="1"
+        android:title="Запам'ятати" />
+    <item
+        android:id="@+id/read_from_pref"
+        android:orderInCategory="2"
+        android:title="Завантажити з пам'яті" />
+    <item
+        android:id="@+id/add_order"
+        android:orderInCategory="4"
+        android:title="Добавити нове" />
+    <item
+        android:id="@+id/open_add"
+        android:orderInCategory="3"
+        android:title="Змінити шаблон" />
+</menu>
